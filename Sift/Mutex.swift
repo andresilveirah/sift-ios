@@ -9,7 +9,7 @@
  *
  * Portions of the documentation of this code are reproduced from
  * work created and shared by Google and used according to terms
- * described in the Creative Commons 3.0 Attribution License.
+ * described in the Creative Commons 4.0 Attribution License.
  *
  * http://golang.org/pkg/sync/
  */
